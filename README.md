@@ -9,4 +9,5 @@ I have done some demo on raspberry pi.
    
    prepare: install mjpg-streamer : [https://github.com/jacksonliam/mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) 
    
+   then see http://yourIP:8080/stream.html
 
