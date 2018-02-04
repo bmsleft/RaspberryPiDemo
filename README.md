@@ -11,3 +11,5 @@ I have done some demo on raspberry pi.
    
    then see http://yourIP:8080/stream.html
 
+### demo3
+   use Picamera get continous picture and opencv detect face. 
